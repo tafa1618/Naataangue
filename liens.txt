@@ -1,0 +1,68 @@
+Fruits:
+href="https://ibb.co/KjX40Vz"><img src="https://i.ibb.co/99NK8y3/poires.png" alt="poires" border="0"></a>
+<a href="https://ibb.co/NTm4qNN"><img src="https://i.ibb.co/WVPTXzz/citron.png" alt="citron" border="0"></a>
+<a href="https://ibb.co/dbzJtWC"><img src="https://i.ibb.co/9wC3h8K/clementine.png" alt="clementine" border="0"></a>
+<a href="https://ibb.co/VtjL5Kk"><img src="https://i.ibb.co/FKxhCPd/coconut.png" alt="coconut" border="0"></a>
+<a href="https://ibb.co/yp9H0Py"><img src="https://i.ibb.co/nBGxrmc/figues.png" alt="figues" border="0"></a>
+<a href="https://ibb.co/Y7jbVpj"><img src="https://i.ibb.co/MDN9JMN/fraise.png" alt="fraise" border="0"></a>
+<a href="https://ibb.co/vvh2bgQ"><img src="https://i.ibb.co/7NQ7H8R/grapes.png" alt="grapes" border="0"></a>
+<a href="https://ibb.co/ZLSzCgJ"><img src="https://i.ibb.co/xCYqQgs/kiwi.png" alt="kiwi" border="0"></a>
+<a href="https://ibb.co/HDmxs3B"><img src="https://i.ibb.co/fYmn5Lq/lime.png" alt="lime" border="0"></a>
+<a href="https://ibb.co/y54n9Kx"><img src="https://i.ibb.co/7VkJfB0/peach.png" alt="peach" border="0"></a>
+<a href="https://ibb.co/MpbJW8f"><img src="https://i.ibb.co/Xp9GNyD/peches.png" alt="peches" border="0"></a>
+<a href="https://ibb.co/qDwH5LV"><img src="https://i.ibb.co/rQJBsKN/poire.png" alt="poire" border="0"></a>
+
+Légumes:
+<a href="https://ibb.co/YQYCd84"><img src="https://i.ibb.co/KhRPs7c/brocoli.png" alt="brocoli" border="0"></a>
+<a href="https://ibb.co/1rWfpvY"><img src="https://i.ibb.co/X7RZd2f/carot.png" alt="carot" border="0"></a>
+<a href="https://ibb.co/vs2KK92"><img src="https://i.ibb.co/rbn119n/chou.png" alt="chou" border="0"></a>
+<a href="https://ibb.co/dcB30VY"><img src="https://i.ibb.co/3s18yjZ/oignons.png" alt="oignons" border="0"></a>
+<a href="https://ibb.co/mcxyN2B"><img src="https://i.ibb.co/HHJPhb2/poireau.png" alt="poireau" border="0"></a>
+<a href="https://ibb.co/Kb1sSLQ"><img src="https://i.ibb.co/Xjw5M3d/poivrons.png" alt="poivrons" border="0"></a>
+<a href="https://ibb.co/z2YmD3B"><img src="https://i.ibb.co/t2tHF0v/radis.png" alt="radis" border="0"></a>
+<a href="https://ibb.co/hFr4HsT"><img src="https://i.ibb.co/tpnvcB1/tomato.png" alt="tomato" border="0"></a>
+<a href="https://ibb.co/nPSnfy7"><img src="https://i.ibb.co/KKHL7g2/aubergine.png" alt="aubergine" border="0"></a>
+
+Beurres
+<a href="https://ibb.co/YQYCd84"><img src="https://i.ibb.co/KhRPs7c/brocoli.png" alt="brocoli" border="0"></a>
+<a href="https://ibb.co/1rWfpvY"><img src="https://i.ibb.co/X7RZd2f/carot.png" alt="carot" border="0"></a>
+<a href="https://ibb.co/vs2KK92"><img src="https://i.ibb.co/rbn119n/chou.png" alt="chou" border="0"></a>
+<a href="https://ibb.co/dcB30VY"><img src="https://i.ibb.co/3s18yjZ/oignons.png" alt="oignons" border="0"></a>
+<a href="https://ibb.co/mcxyN2B"><img src="https://i.ibb.co/HHJPhb2/poireau.png" alt="poireau" border="0"></a>
+<a href="https://ibb.co/Kb1sSLQ"><img src="https://i.ibb.co/Xjw5M3d/poivrons.png" alt="poivrons" border="0"></a>
+<a href="https://ibb.co/z2YmD3B"><img src="https://i.ibb.co/t2tHF0v/radis.png" alt="radis" border="0"></a>
+<a href="https://ibb.co/hFr4HsT"><img src="https://i.ibb.co/tpnvcB1/tomato.png" alt="tomato" border="0"></a>
+<a href="https://ibb.co/nPSnfy7"><img src="https://i.ibb.co/KKHL7g2/aubergine.png" alt="aubergine" border="0"></a><a href="https://ibb.co/cCK9Y9V"><img src="https://i.ibb.co/X3fPYPM/beurre-1.png" alt="beurre-1" border="0"></a>
+<a href="https://ibb.co/wWp4RWn"><img src="https://i.ibb.co/Lt918tT/eggs.png" alt="eggs" border="0"></a>
+<a href="https://ibb.co/pKtGdTv"><img src="https://i.ibb.co/1XDhTNf/milk.png" alt="milk" border="0"></a>
+<a href="https://ibb.co/zVf24V9"><img src="https://i.ibb.co/RTH6DTr/yaourts-fruits.png" alt="yaourts-fruits" border="0"></a>
+<a href="https://ibb.co/0VV7RdG"><img src="https://i.ibb.co/vvvF6Kj/yaourts-nature.png" alt="yaourts-nature" border="0"></a>
+<a href="https://ibb.co/g6r9DsG"><img src="https://i.ibb.co/6Nyw462/beurre.png" alt="beurre" border="0"></a>
+<a href="https://ibb.co/YQYCd84"><img src="https://i.ibb.co/KhRPs7c/brocoli.png" alt="brocoli" border="0"></a>
+<a href="https://ibb.co/1rWfpvY"><img src="https://i.ibb.co/X7RZd2f/carot.png" alt="carot" border="0"></a>
+<a href="https://ibb.co/vs2KK92"><img src="https://i.ibb.co/rbn119n/chou.png" alt="chou" border="0"></a>
+<a href="https://ibb.co/dcB30VY"><img src="https://i.ibb.co/3s18yjZ/oignons.png" alt="oignons" border="0"></a>
+<a href="https://ibb.co/mcxyN2B"><img src="https://i.ibb.co/HHJPhb2/poireau.png" alt="poireau" border="0"></a>
+<a href="https://ibb.co/Kb1sSLQ"><img src="https://i.ibb.co/Xjw5M3d/poivrons.png" alt="poivrons" border="0"></a>
+<a href="https://ibb.co/z2YmD3B"><img src="https://i.ibb.co/t2tHF0v/radis.png" alt="radis" border="0"></a>
+<a href="https://ibb.co/hFr4HsT"><img src="https://i.ibb.co/tpnvcB1/tomato.png" alt="tomato" border="0"></a>
+<a href="https://ibb.co/nPSnfy7"><img src="https://i.ibb.co/KKHL7g2/aubergine.png" alt="aubergine" border="0"></a><a href="https://ibb.co/cCK9Y9V"><img src="https://i.ibb.co/X3fPYPM/beurre-1.png" alt="beurre-1" border="0"></a>
+<a href="https://ibb.co/wWp4RWn"><img src="https://i.ibb.co/Lt918tT/eggs.png" alt="eggs" border="0"></a>
+<a href="https://ibb.co/pKtGdTv"><img src="https://i.ibb.co/1XDhTNf/milk.png" alt="milk" border="0"></a>
+<a href="https://ibb.co/zVf24V9"><img src="https://i.ibb.co/RTH6DTr/yaourts-fruits.png" alt="yaourts-fruits" border="0"></a>
+<a href="https://ibb.co/0VV7RdG"><img src="https://i.ibb.co/vvvF6Kj/yaourts-nature.png" alt="yaourts-nature" border="0"></a>
+<a href="https://ibb.co/g6r9DsG"><img src="https://i.ibb.co/6Nyw462/beurre.png" alt="beurre" border="0"></a><a href="https://ibb.co/xLjzgB7"><img src="https://i.ibb.co/qjsmgcr/pates.png" alt="pates" border="0"></a>
+<a href="https://ibb.co/Bzn4C4h"><img src="https://i.ibb.co/PmDT6T2/sardines.png" alt="sardines" border="0"></a>
+<a href="https://ibb.co/NnVm87m"><img src="https://i.ibb.co/JFByfCy/soupe.png" alt="soupe" border="0"></a>
+<a href="https://ibb.co/6FY4CQr"><img src="https://i.ibb.co/5LT5HZG/the.png" alt="the" border="0"></a>
+<a href="https://ibb.co/CpjN1RQ"><img src="https://i.ibb.co/j9CB6nD/thon.png" alt="thon" border="0"></a>
+<a href="https://ibb.co/H7dfgmp"><img src="https://i.ibb.co/Q9d3msj/biscottes.png" alt="biscottes" border="0"></a>
+<a href="https://ibb.co/1RJy5Bv"><img src="https://i.ibb.co/3SY6qVr/cafe.png" alt="cafe" border="0"></a>
+<a href="https://ibb.co/tJQWghS"><img src="https://i.ibb.co/wzBxVLT/cookies.png" alt="cookies" border="0"></a>
+
+Boissons
+<a href="https://ibb.co/ZJvyvC5"><img src="https://i.ibb.co/Jd8X8PV/fanta.png" alt="fanta" border="0"></a>
+<a href="https://ibb.co/1659Ztb"><img src="https://i.ibb.co/GTLV74F/sprite.png" alt="sprite" border="0"></a>
+<a href="https://ibb.co/RzvmfV9"><img src="https://i.ibb.co/nzgv95b/sprite-zero.png" alt="sprite-zero" border="0"></a>
+<a href="https://ibb.co/nCLmLZW"><img src="https://i.ibb.co/hfm9mhq/bordeaux.png" alt="bordeaux" border="0"></a>
+<a href="https://ibb.co/LhRQHdq"><img src="https://i.ibb.co/Cs8JDKX/coke.png" alt="coke" border="0"></a>
